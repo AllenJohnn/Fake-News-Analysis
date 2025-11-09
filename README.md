@@ -47,7 +47,7 @@ pip install pandas scikit-learn
 
 1.Download and extract the dataset.
 
-2.Download the script file fake_news.py (your provided code).
+2.Download the script file fake_news.py.
 
 3.Place True.csv and Fake.csv in the same folder as the script.
 
